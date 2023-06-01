@@ -1,0 +1,16 @@
+{
+  "name": "swagger-jsdoc-fix-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Shekhar Wagh (shekharnwagh)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-jsdoc": "github:nejclovrencic/swagger-jsdoc#f92ee06b54cad6767a3befe9ce10606b651a76da"
+  }
+}

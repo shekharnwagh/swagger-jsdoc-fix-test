@@ -1,0 +1,1 @@
+Test setup to validate https://github.com/Surnet/swagger-jsdoc/pull/363 fix.
